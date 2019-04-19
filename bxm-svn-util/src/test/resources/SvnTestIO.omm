@@ -1,0 +1,6 @@
+OMM io.SvnTestIO
+<description="">
+{
+	String aaa<length=4000>;
+	String bbb<length=4000>;
+}
