@@ -3,8 +3,7 @@
 - The TMate Open Source License 가지는 svnkit 1.9.3 jar 를 사용기에 오픈소스로 공개 함. (https://svnkit.com/license.html)
 
 ## How to get source code
-- https://github.com/bxmgithub/bxm-svn-util.git 로부터 소스 코드를 내려 받음.
-- 소스코드를 내려 받아 gradle 빌드를 수행
+- git address : https://github.com/bxmgithub/bxm-svn-util.git
 
 ## Build
 
