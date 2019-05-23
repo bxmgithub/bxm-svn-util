@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+This product depends on 'svnkit', a pure Java Subversion client library. 
+which can be obtained at:
+
+  * LICENSE:
+    * https://svnkit.com/license.html (TMate Open Source License)
+  * HOMEPAGE:
+    * https://svnkit.com/
