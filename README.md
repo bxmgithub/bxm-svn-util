@@ -15,10 +15,10 @@
 ### Gradle
 bxm-svn-util can be built by using gradle. After downloading the source, execute the following commands.
 
-For Linux, Unix
+-For Linux, Unix
 ./gradlew clean
 ./gradlew build
 
-For Windows
+- For Windows
 gradlew.bat clean
 gradlew.bat build
