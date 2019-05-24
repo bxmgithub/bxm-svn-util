@@ -21,7 +21,3 @@ bxm-svn-util can be built by using gradle. After downloading the source, execute
 - For Windows
   - gradlew.bat clean
   - gradlew.bat build
-  
-### License
-The TMate Open Source License. see detail (https://svnkit.com/license.html)
-
